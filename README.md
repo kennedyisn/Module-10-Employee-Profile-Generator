@@ -23,6 +23,7 @@ After installing required dependencies, open the terminal and type in "node inde
 ## Credits
 
 https://www.codecademy.com/article/getting-user-input-in-node-js
+https://www.youtube.com/watch?v=Fsp42zUNJYU&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=11
 
 
 ## License
