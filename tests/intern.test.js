@@ -1,4 +1,4 @@
-const Intern = require('/lib/intern.js');
+const Intern = require('../lib/intern');
 
 describe('Intern class', () => {
   it('should set the name, id, and email', () => {

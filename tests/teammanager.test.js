@@ -1,4 +1,4 @@
-const Manager = require('/lib/teammanager.js');
+const Manager = require('../lib/teammanager');
 
 describe('Manager class', () => {
   it('should set the name, id, and email', () => {
@@ -13,7 +13,7 @@ describe('Manager class', () => {
   it('should return the office number using getOfficeNumber method', () => {
     const manager = new Manager('Lebron James', 6, 'manager@gmail.com', 'goat23');
 
-    expect(manager.getOfficeNumber()).toBe('101A');
+    expect(manager.getOfficeNumber()).toBe('goat23');
   });
 
   it('should return the role using the getRole method', () => {

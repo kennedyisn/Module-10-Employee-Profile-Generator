@@ -20,7 +20,7 @@ Before running this application you need to install "inquirer" and "fs" which ca
 
 After installing required dependencies, open the terminal and type in "node index.js" to run the application. You will then be prompted questions that will be used to form your team managers profile, after that you will encounter a menu allowing you to create a new engineer profile, intern profile, or finish building your team and see your created team profile webpage. After youve created all the profiles for your team and selected the "finish building your team" option your profile page file will be generated and stored under the name "TeamProfile.HTML". The picture below shows a webpage made using the application and the styling included can be found in the "dist" folder.
 
-
+https://drive.google.com/file/d/1yvck2W3eieTj0rNBEedmAu-JI2qpYxAo/view
 
 ## Credits
 
